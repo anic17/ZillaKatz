@@ -3,7 +3,7 @@ ZillaKatz, a program to get FileZilla credentials. ZillaKatz is an old script/pr
 
 # Usage
 
-`ZillaKatz "[full of credentials file]"`
+`ZillaKatz "[credentials file]"`
 `ZillaKatz --help`
 `ZillaKatz`
 
